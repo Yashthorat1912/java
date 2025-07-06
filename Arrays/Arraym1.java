@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.*;
-
 public class Arraym1 {
   public static void main(String[] args) {
     int[] marks = new int[3];
